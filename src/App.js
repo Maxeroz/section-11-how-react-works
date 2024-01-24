@@ -101,3 +101,4 @@ function DifferentContent() {
 
 // Components, Instances, and Elements
 // Instances and Elements in Practice
+// How Rendering Works: The Render Phase
