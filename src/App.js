@@ -26,6 +26,8 @@ export default function App() {
   );
 }
 
+console.log(<DifferentContent />);
+
 function Tabbed({ content }) {
   const [activeTab, setActiveTab] = useState(0);
 
@@ -102,3 +104,4 @@ function DifferentContent() {
 // Components, Instances, and Elements
 // Instances and Elements in Practice
 // How Rendering Works: The Render Phase
+// How Rendering Works: The Commit Phase
