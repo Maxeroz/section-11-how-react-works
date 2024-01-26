@@ -108,3 +108,4 @@ function DifferentContent() {
 // How Rendering Works: The Commit Phase
 // How Diffing Works
 // The Key Prop
+// Rules for Render Logic: Pure Components
