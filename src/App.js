@@ -129,3 +129,4 @@ function DifferentContent() {
 // The Key Prop
 // Rules for Render Logic: Pure Components
 // Libraries vs. Frameworks & The React Ecosystem
+// Section Summary: Practical Takeaways
